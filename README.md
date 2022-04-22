@@ -58,3 +58,15 @@ Independent Variables: </br>
 Data: 250 observations | 7 independent variables | 1 dependent variable
 
 ![alt text](https://github.com/Padlu/Logistic-Regression-using-Statistics/blob/main/Images/Descriptive_stats.png "Descriptive Statistics")
+
+From above descriptive statistics we derive the following:</br>
+* Country_Satis: w/ mean 0.56 -> a little more individuals are dissatisfied with their country than those who are satisfied.
+* Econ_Sit: w/ mean 2.52 -> lesser individuals think their country's economic situation is "Very Good;" while many think it's "Somewhat Good."
+* Satisfied_Democracy: w/ mean 2.59 -> less people are "Very Satisfied" with their country's democracy.
+* Market_Econ: w/ mean 2.26 -> many "Mostly Agree" that most of the population are better off with the free market economy
+* Free_Elections: w/ mean 1.4 -> most think it is "Very Important" to have an honest elections held in their country.
+* Children_Betteroff: w/ mean 1.51 -> almost half population thinks children are "Better Off" in the future.
+* Future_Education: w/ mean 1.43 -> more people are "Optimistic" considering education of their country.
+* Sex: w/ mean 1.43 -> a little more no. of men took the survey than no. of women.
+
+<ins>Idea about data with above descriptive stats</ins>: Individuals who are dissatisfied with the current country situation can be male who are optimistic about the future education but they are somewhat satisfied with the country’s economic condition and democracy.
